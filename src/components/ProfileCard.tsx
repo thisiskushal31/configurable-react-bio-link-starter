@@ -109,7 +109,7 @@ const ProfileCard = () => {
       <footer className="flex-shrink-0 container mx-auto px-4 py-4 max-w-md">
         <div className="text-center">
           <div className="text-xs text-muted-foreground/60">
-            © 2024 Kushal Gupta. All rights reserved.
+            © 2025 Kushal Gupta. All rights reserved.
           </div>
         </div>
       </footer>
