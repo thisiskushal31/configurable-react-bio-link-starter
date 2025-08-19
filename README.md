@@ -292,7 +292,7 @@ MIT License - feel free to use this project for your own link hub!
 
 ## 🔗 Live Demo
 
-**Live Demo**: [https://yourusername.github.io/repo-name/](https://yourusername.github.io/repo-name/)
+**Live Demo**: [https://thisiskushal31.github.io/link/](https://thisiskushal31.github.io/link/)
 
 ---
 
