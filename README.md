@@ -27,8 +27,8 @@ A modern, config-driven, personal link hub built with React, TypeScript, and Tai
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/configurable-react-link-hub.git
-cd configurable-react-link-hub
+git clone https://github.com/yourusername/configurable-react-bio-link-starter.git
+cd configurable-react-bio-link-starter
 
 # Install dependencies
 npm install
@@ -292,7 +292,7 @@ MIT License - feel free to use this project for your own link hub!
 
 ## 🔗 Live Demo
 
-**Live Demo**: [https://thisiskushal31.github.io/link/](https://thisiskushal31.github.io/link/)
+**Live Demo**: [https://yourusername.github.io/repo-name/](https://yourusername.github.io/repo-name/)
 
 ---
 

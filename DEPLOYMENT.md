@@ -5,7 +5,7 @@ This guide explains how to deploy the LinkHub application to GitHub Pages.
 ## Prerequisites
 
 - GitHub account
-- Repository named `thisiskushal31.github.io` (or your username + `.github.io`)
+- Repository named `yourusername.github.io` (or your username + `.github.io`)
 - Node.js and npm installed locally
 
 ## Deployment Steps
@@ -92,7 +92,7 @@ jobs:
 ### 4. Verify Deployment
 
 After deployment, your site will be available at:
-- **Main Page**: `https://thisiskushal31.github.io/link/`
+- **Main Page**: `https://yourusername.github.io/repo-name/`
 
 ## Configuration Notes
 
@@ -204,4 +204,4 @@ This structure ensures compatibility with GitHub Pages static hosting.
 
 ---
 
-**Live Demo**: [https://thisiskushal31.github.io/links/](https://thisiskushal31.github.io/links/) 
+**Live Demo**: [https://yourusername.github.io/repo-name/](https://yourusername.github.io/repo-name/) 

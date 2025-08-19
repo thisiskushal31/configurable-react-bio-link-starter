@@ -1,9 +1,9 @@
 {
-  "name": "linkhub",
+  "name": "configurable-react-bio-link-starter",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://thisiskushal31.github.io/link/",
+  "homepage": "https://yourusername.github.io/repo-name/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
